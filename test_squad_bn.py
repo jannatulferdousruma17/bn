@@ -27,7 +27,7 @@ logger = datasets.logging.get_logger(__name__)
 
 
 
-_URL = "https://github.com/jannatulferdousruma17/bn/"
+_URL = "https://github.com/jannatulferdousruma17/bn/blob/main/"
 _URLS = {
     "train": _URL + "train.json",
     # "dev": _URL + "dev-v1.1.json",
